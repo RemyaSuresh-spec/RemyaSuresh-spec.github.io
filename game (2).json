@@ -285,21 +285,6 @@
     "shop_keeper": 1
   },
   {
-    "room_no": 20,
-    "island": "Zou",
-    "room_1": 21,
-    "room_2": 18,
-    "room_3": 22,
-    "story": "There is city above a gaint elephent. It seems there is animal tribe",
-    "crew": 1,
-    "skills": 10,
-    "haki": 25,
-    "beri": -500,
-    "Treasure": 10,
-    "admirals": 1,
-    "shop_keeper": 1
-  },
-  {
     "room_no": 21,
     "island": "Laugh Tale",
     "room_1": "",
